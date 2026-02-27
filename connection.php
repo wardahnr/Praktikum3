@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$dbname = 'praktikum';
+$dbname = 'kampus';
 $username = 'wardahnr';
 $password = 'wardah123';
     try {
